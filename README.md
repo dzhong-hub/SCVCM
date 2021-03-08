@@ -13,8 +13,9 @@
 
 <h3>References</h3>
 <ul>
-<li>Paper 1: A Self-Calibration Variance-Component Model for Spatial Downscaling of GRACE Observations Using Land Surface Model Outputs (still under a journal peer review) 
-<li>Paper 2: Spatiotemporal Downscaling of GRACE Terrestrial Water Storage Using Land Surface Model Outputs (still under a journal peer review) 
+<li>Paper 1: Zhong, D., Wang, S., & Li, J. (2021). A self-calibration variance-component model for spatial downscaling of GRACE observations using land surface model outputs. Water Resources Research, 57, e2020WR028944. https://doi.org/10.1029/2020WR028944</li> 
+<li>Paper 2: Zhong, D.;Wang, S.; Li, J. Spatiotemporal Downscaling of GRACE TotalWater Storage Using Land Surface Model Outputs. Remote Sens. 2021, 13, 900. 
+  https://doi.org/10.3390/rs13050900</li> 
 </ul>
 <p>More details refer to the simple user guide.</p>
 
